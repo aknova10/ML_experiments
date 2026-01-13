@@ -1,3 +1,5 @@
 # datasets
-*.csv
-*.zip
+**.csv
+**.zip
+**/data/
+**.png
